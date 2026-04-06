@@ -45,5 +45,4 @@ https://www.kaggle.com/datasets/bhanupratapbiswas/website-traffic-analysis
 This project demonstrates how data analysis can help understand user behavior and improve website performance through actionable insights.
 
 
-## 👨‍💻 Author
-Adiya Kumar
+
